@@ -2,6 +2,8 @@
 
 This project uses an ESP32 microcontroller to control a robot via Bluetooth. The robot can move forward, turn right, and stop based on distance measurements from an ultrasonic sensor and commands received over Bluetooth.
 
+[BOOMBOT](https://sites.google.com/umass.edu/boombot/)
+
 ## Features
 
 ### Bluetooth Control
